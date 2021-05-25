@@ -13,8 +13,8 @@
 ![](/img/StudentView2.png)
 
 
-#Collaborators
-*[Annie Yao]()
-*[Diana Stephanie Wong]
-*[Halakseka Jegatheesan]
-*[Daewoong Jun](https://github.com/adwjsnpl1252)
+# Collaborators
+* [Annie Yao](https://github.com/qyyao)
+* [Diana Stephanie Wong](https://github.com/steph-wong-15)
+* [Halakseka Jegatheesan](https://github.com/h375)
+* [Daewoong Jun](https://github.com/adwjsnpl1252)
