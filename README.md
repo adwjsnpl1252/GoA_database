@@ -8,6 +8,6 @@
 * Our group collaborated with Game of Apps organization to build a Web application utilizing Python with Flask web frame to navigate database created in MySQL.
 ![](/img/LogIn.png)
 
-![](/img/TeaachView.png)
+![](/img/TeachView.png)
 
 ![](/img/StudentView2.png)
